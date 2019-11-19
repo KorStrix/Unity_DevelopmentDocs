@@ -16,14 +16,15 @@
 - 질문을 해도 답변이 잘 안될경우 하단을 참고하시기 바랍니다.
 
 ### 질문을 했는데 답변을 못받을 때.
+1. 가급적이면 물어볼 상황이 생겼을 때는 구글링부터 하시는게 시간을 절약하실 수 있습니다.
+
 정확한 질문이 정확한 답변을 낳습니다.
-가급적이면 물어볼 상황이 생겼을 때 
 
 - 질문에 대한 배경을 충분히 설명했습니까?
 - 
 
 ### 기타 문의사항은 [여기서..](https://github.com/KorStrix/Unity_DevelopmentDocs/issues)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjY5MTgzMDYsLTIzOTA2NTMxMCwtMT
+eyJoaXN0b3J5IjpbLTE0MzQ4MzI5NTYsLTIzOTA2NTMxMCwtMT
 E1MjQ0ODYwMyw1Mjg2OTMxMDksNzMyNzgxMTMyXX0=
 -->
