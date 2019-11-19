@@ -11,7 +11,9 @@
 3. 다른 사람들과 공동 작업할 수 있다.
 
 ### 깃허브 용어
-저장소
+#### Repository(=저장소)
+#### Owner(=저장소 소유주)
+#### Collaborator(=
 
 ## 깃허브 작업 순서
 
@@ -42,6 +44,6 @@
 
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4ODkwOTcyOCw2OTM1NTk5NjgsLTE1MD
+eyJoaXN0b3J5IjpbLTQ0NDE1NjYxOSw2OTM1NTk5NjgsLTE1MD
 Y0MDcwNDAsMTQyNTcyMTg0MiwyMDY5NzI2OTUwXX0=
 -->
