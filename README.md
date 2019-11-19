@@ -7,11 +7,17 @@
 
 깃허브를 잘 모르시는 분을 위해 현재 튜토리얼 문서를 작성 예정입니다.
 
+## 깃허브 사용법
+작성 예정
+
+
 ## 채팅 관련
 
 카톡 및 디스코드 관련 항목입니다.
 [채팅 항목 링크](https://github.com/KorStrix/Unity_DevelopmentDocs/tree/master/Chat)
 
+## 개발 문서 관련
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDM0NzIyMjgsOTkwNDQzMjNdfQ==
+eyJoaXN0b3J5IjpbOTY0MDgyOTIsOTkwNDQzMjNdfQ==
 -->
