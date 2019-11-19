@@ -17,15 +17,14 @@
 
 ### 질문을 했는데 답변을 못받을 때.
 1. 가급적이면 물어볼 상황이 생겼을 때는 구글링부터 하시는게 시간을 절약하실 수 있습니다.
-2. 구글링 해도 잘 안나올 경우 그때 물어봐주세요.
-
-정확한 질문이 정확한 답변을 낳습니다.
-
+2. 너무 기초적인 질문은 지양해주세요. 예) 유니티 사용법, 함수 사용법 등
+3. 
+- 정확한 질문이 정확한 답변을 낳습니다.
 - 질문에 대한 배경을 충분히 설명했습니까?
 - 
 
 ### 기타 문의사항은 [여기서..](https://github.com/KorStrix/Unity_DevelopmentDocs/issues)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTU4NTg2MzgsLTIzOTA2NTMxMCwtMT
-E1MjQ0ODYwMyw1Mjg2OTMxMDksNzMyNzgxMTMyXX0=
+eyJoaXN0b3J5IjpbMTI5OTA1NjM0MiwtMjM5MDY1MzEwLC0xMT
+UyNDQ4NjAzLDUyODY5MzEwOSw3MzI3ODExMzJdfQ==
 -->
