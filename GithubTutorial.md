@@ -22,8 +22,12 @@
 7. 서버에 올릴 필요가 있을 때 Push(서버에 업로드)를 한다.
 
 ### 순수 사용자
+#### Release가 있는 경우 
+1. Release에 있는 파일을 받는다. 
 
+#### Release가 없는 경
+3. 깃허브에서 제공하는 우측의 Clone or Download 버튼을 눌러 다운을 받는다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMxNDA5MDcsLTE1MDY0MDcwNDAsMTQyNT
-cyMTg0MiwyMDY5NzI2OTUwXX0=
+eyJoaXN0b3J5IjpbLTEyMTQwMzAxOTksLTE1MDY0MDcwNDAsMT
+QyNTcyMTg0MiwyMDY5NzI2OTUwXX0=
 -->
