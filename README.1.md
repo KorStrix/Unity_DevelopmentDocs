@@ -17,8 +17,9 @@
 - 유니티 개발자 모임 - 카카오톡 [링크](https://open.kakao.com/o/gOi17az)
 - 채팅 관련 문서 [링크](https://github.com/KorStrix/Unity_DevelopmentDocs/tree/master/Chat)
 
+
 ## 개발 문서 관련
-- 글[링크](https://github.com/KorStrix/Unity_DevelopmentDocs/tree/master/Dvelopment)
+- 글 [링크](https://github.com/KorStrix/Unity_DevelopmentDocs/tree/master/Dvelopment)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0Nzk3Njc5N119
+eyJoaXN0b3J5IjpbLTkyMjAzNTI4M119
 -->
