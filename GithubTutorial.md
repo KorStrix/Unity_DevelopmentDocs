@@ -33,12 +33,12 @@
 
 #### Release도 없고 Tags도 없는 경우
 - 메인에 있는 Clone or Download를 한다.
-- - [유니티 C# 저장소 예시 링크 - 메인](https://github.com/Unity-Technologies/UnityCsReference)
+	- [유니티 C# 저장소 예시 링크 - 메인](https://github.com/Unity-Technologies/UnityCsReference)
 ---
 ### 프로젝트를 수정하고 싶은 사용자(!=저장소 소유주)
 
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTM5NzkxOTUsLTE1MDY0MDcwNDAsMT
-QyNTcyMTg0MiwyMDY5NzI2OTUwXX0=
+eyJoaXN0b3J5IjpbNjkzNTU5OTY4LC0xNTA2NDA3MDQwLDE0Mj
+U3MjE4NDIsMjA2OTcyNjk1MF19
 -->
