@@ -26,10 +26,11 @@
 - 정확한 질문이 정확한 답변을 낳습니다.
 - 질문이 이해하기 힘들어서일 수 있습니다.
 - 질문에 대한 배경 설명이 부족할 수 있습니다.
+- 코드나 Exception이 있으면 보여주시는 편이 좋습니다.
 
 ### 기타 문의사항은 [여기서..](https://github.com/KorStrix/Unity_DevelopmentDocs/issues)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU4MDE4MDYxLDE0MDk2ODEzMjEsNzAzMz
-MxMTE2LC0yMzkwNjUzMTAsLTExNTI0NDg2MDMsNTI4NjkzMTA5
-LDczMjc4MTEzMl19
+eyJoaXN0b3J5IjpbLTQ0NjcyNDAwOSwxNDA5NjgxMzIxLDcwMz
+MzMTExNiwtMjM5MDY1MzEwLC0xMTUyNDQ4NjAzLDUyODY5MzEw
+OSw3MzI3ODExMzJdfQ==
 -->
