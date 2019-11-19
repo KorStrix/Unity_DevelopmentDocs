@@ -1,8 +1,11 @@
 # 유니티 개발 관련 문서함
 
 ## 환영합니다.
-여기서 현재 운영되고 있는 채팅방 운영 관련 글이나,
-유니티 개발에 관련된 문서를 ㅈ
+이 저장소의 운영 목적이며, 수정될 수 있습니다.
+1.  현재 운영되고 있는 채팅방 운영관련.
+2. 유니티 개발 관련 문서를 자유롭게 작성 및 토론.
+
+깃허브를 잘 모르시는 분을 위해 현재 튜토리얼 문서를 작성 예정입니다.
 
 ## 채팅 관련
 
@@ -10,5 +13,5 @@
 [채팅 항목 링크](https://github.com/KorStrix/Unity_DevelopmentDocs/tree/master/Chat)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMjE0ODIxMCw5OTA0NDMyM119
+eyJoaXN0b3J5IjpbLTIxNDM0NzIyMjgsOTkwNDQzMjNdfQ==
 -->
