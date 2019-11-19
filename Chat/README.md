@@ -4,9 +4,9 @@
 - 유니티 개발자 모임(잡담방) - [카톡 참여 링크](https://open.kakao.com/o/gXREoWIb)
 
 ## 공지사항
-원활한 채팅방 운영을 위해 <ㅠ채팅방 규칙과 채팅방 권장사항으로 나누었습니다.
+원활한 채팅방 운영을 위해 <b>채팅방 규칙과 채팅방 권장사항</b>으로 나누었습니다.
 
-현재 카톡의 경우 질의 및 정보공유방과 잡담방 2개로 운영하고 있습니다.
+현재 카톡 채팅방의 경우 질의 및 정보공유방과 잡담방 2개로 운영하고 있습니다.
 
 ### 채팅방 규칙
 하단의 리스트는 반드시 지켜야 하는 항목이며, 이를 어길 시 경고 및 추방입니다.
@@ -32,7 +32,7 @@
 
 ### 기타 문의사항은 [여기서..](https://github.com/KorStrix/Unity_DevelopmentDocs/issues)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTAyNjgzNywtNzAxOTQxMTA5LC00ND
-Y3MjQwMDksMTQwOTY4MTMyMSw3MDMzMzExMTYsLTIzOTA2NTMx
-MCwtMTE1MjQ0ODYwMyw1Mjg2OTMxMDksNzMyNzgxMTMyXX0=
+eyJoaXN0b3J5IjpbLTE4MTg1ODg5MTYsLTcwMTk0MTEwOSwtND
+Q2NzI0MDA5LDE0MDk2ODEzMjEsNzAzMzMxMTE2LC0yMzkwNjUz
+MTAsLTExNTI0NDg2MDMsNTI4NjkzMTA5LDczMjc4MTEzMl19
 -->
