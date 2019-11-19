@@ -24,7 +24,7 @@
 ### 순수 사용자
 #### Release가 있는 경우 
 - Release에 있는 파일을 다운 받는다.
-(예시에선 [이 링크](https://github.com/KorStrix/Unity_DevelopmentDocs/releases))에 해당
+	- 유니티 C# 오픈소스 [예시 링크](https://github.com/KorStrix/Unity_DevelopmentDocs/releases) 
 
 #### Release가 없는 경우
 -  Tags를 확인<b>(보통 버전을 표기)</b>하여 비교적 최신버전이 붙어있는 Tag를 클릭 후 Clone or Download를 한다.
@@ -32,6 +32,6 @@
 #### Release도 없고 Tags도 없는 경우
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTE4NDY5MzAsLTE1MDY0MDcwNDAsMT
+eyJoaXN0b3J5IjpbLTE0OTAzMjM4MTcsLTE1MDY0MDcwNDAsMT
 QyNTcyMTg0MiwyMDY5NzI2OTUwXX0=
 -->
