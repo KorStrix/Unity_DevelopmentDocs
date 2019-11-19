@@ -12,6 +12,14 @@
 
 ### 깃허브 용어
 - Repository(=저장소)
+- Issue
+- Watch
+- Star
+- Fork
+- Branch
+- Clone(=서버로부터 프로젝트 전체 다운로드)
+
+#### 역할 관련
 - Owner(=저장소 소유주)
 - Collaborator(= 저장소 관리자, != 저장소 소유주)
 - Contributor(=기여자, != 저장소 관리자 및 소유주) 
@@ -20,7 +28,6 @@
 - Commit (=로컬PC 업로드)
 - Push(=서버 업로드)
 - Pull(=서버로부터 작업단위로 다운로드)
-- Clone(=서버로부터 프로젝트 전체 다운로드)
 
 
 ## 깃허브 작업 순서
@@ -52,6 +59,6 @@
 
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzEwMjAxOTIsNjkzNTU5OTY4LC0xNT
-A2NDA3MDQwLDE0MjU3MjE4NDIsMjA2OTcyNjk1MF19
+eyJoaXN0b3J5IjpbLTc0ODc5ODkwMCw2OTM1NTk5NjgsLTE1MD
+Y0MDcwNDAsMTQyNTcyMTg0MiwyMDY5NzI2OTUwXX0=
 -->
