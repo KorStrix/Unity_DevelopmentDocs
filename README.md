@@ -14,7 +14,7 @@
 ## 채팅방
 
 카톡 및 디스코드 관련 항목입니다.
-- 유니티 개발자 모임(정보공유방) - [카톡 링크](https://open.kakao.com/o/gOi17az)
+- 유니티 개발자 모임(질의 및 정보공유방) - [카톡 링크](https://open.kakao.com/o/gOi17az)
 - 유니티 개발자 모임(잡담방) - [카톡 링크](https://open.kakao.com/o/gXREoWIb)
 
 - 채팅 관련 문서 [링크](https://github.com/KorStrix/Unity_DevelopmentDocs/tree/master/Chat)
@@ -22,6 +22,6 @@
 ## 개발 문서 관련
 - 글[링크](https://github.com/KorStrix/Unity_DevelopmentDocs/tree/master/Dvelopment)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE1MTEwODgyLDEyNDc5NzY3OTcsNDYxOD
+eyJoaXN0b3J5IjpbMzIxNDY1MTQzLDEyNDc5NzY3OTcsNDYxOD
 U4MzgyLDk5MDQ0MzIzXX0=
 -->
