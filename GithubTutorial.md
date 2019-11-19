@@ -8,13 +8,13 @@
 ### 깃허브의 기능
 1. 다른 사용자가 공유한 프로젝트를 쉽게 받을 수 있다.
 2. Git 기반의 버전 관리 시스템 저장소를 무료로 받을 수 있다.
-3. 
+3. 다른 사람들과 공동 작업할 수 있다.
 
 ## 깃허브 작업 순서
 
 저장소를 올린다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1ODM5OTMxNiwtMTUwNjQwNzA0MCwxND
-I1NzIxODQyLDIwNjk3MjY5NTBdfQ==
+eyJoaXN0b3J5IjpbNjA2ODgwOTk0LC0xNTA2NDA3MDQwLDE0Mj
+U3MjE4NDIsMjA2OTcyNjk1MF19
 -->
