@@ -15,14 +15,15 @@
 - 답변이 질문에 도움이 되셨다면 감사인사 부탁.
 - 질문을 해도 답변을 안할 경우 자신의 질문이 답변하기 어려운 것인지 체크해보기.
 
-### 답변이 쉬운 질문 체크리스트
+### 답변이 잘 안될 때
 정확한 질문이 정확한 답변을 낳습니다.
+가급적이면 물어볼 상황이 생겼을 때 
 
 - 질문에 대한 배경을 충분히 설명했습니까?
 - 
 
 ### 기타 문의사항은 [여기서..](https://github.com/KorStrix/Unity_DevelopmentDocs/issues)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzOTA2NTMxMCwtMTE1MjQ0ODYwMyw1Mj
-g2OTMxMDksNzMyNzgxMTMyXX0=
+eyJoaXN0b3J5IjpbLTE5MzU5ODQ0MjEsLTIzOTA2NTMxMCwtMT
+E1MjQ0ODYwMyw1Mjg2OTMxMDksNzMyNzgxMTMyXX0=
 -->
