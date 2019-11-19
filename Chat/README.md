@@ -16,8 +16,8 @@
 ### 답변이 쉬운 질문 체크리스트
  
 
-### 기타 문의사항은 리퀘스트로
+### 기타 문의사항은 [여기서..](https://github.com/KorStrix/Unity_DevelopmentDocs/issues)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDk5NjAzNTgsNTI4NjkzMTA5LDczMj
+eyJoaXN0b3J5IjpbLTExNTI0NDg2MDMsNTI4NjkzMTA5LDczMj
 c4MTEzMl19
 -->
