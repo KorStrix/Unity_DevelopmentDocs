@@ -6,6 +6,8 @@
 ## 공지사항
 원활한 채팅방 운영을 위해 현재 채팅방 규칙과 채팅방 권장사항으로 나누었습니다.
 
+현재 카톡의 경우 질의 및 정보공유방과 잡담방 2개로 운영하고 있습니다.
+
 ### 채팅방 규칙
 하단의 리스트는 반드시 지켜야 하는 항목이며, 이를 어길 시 경고 및 추방입니다.
 
@@ -30,7 +32,7 @@
 
 ### 기타 문의사항은 [여기서..](https://github.com/KorStrix/Unity_DevelopmentDocs/issues)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMTk0MTEwOSwtNDQ2NzI0MDA5LDE0MD
-k2ODEzMjEsNzAzMzMxMTE2LC0yMzkwNjUzMTAsLTExNTI0NDg2
-MDMsNTI4NjkzMTA5LDczMjc4MTEzMl19
+eyJoaXN0b3J5IjpbOTE5OTk4NTksLTcwMTk0MTEwOSwtNDQ2Nz
+I0MDA5LDE0MDk2ODEzMjEsNzAzMzMxMTE2LC0yMzkwNjUzMTAs
+LTExNTI0NDg2MDMsNTI4NjkzMTA5LDczMjc4MTEzMl19
 -->
