@@ -21,18 +21,19 @@
 6. 작업한 내용을 커밋한다.
 7. 서버에 올릴 필요가 있을 때 Push(서버에 업로드)를 한다.
 
-### 순수 사용자
+### 프로젝트 사용자
 #### Release가 있는 경우 
 - Release에 있는 파일을 다운 받는다.
-	- [유니티 C# 저장소 예시 링크](https://github.com/KorStrix/Unity_DevelopmentDocs/releases) 
+	- [유니티 C# 저장소 예시 링크](https://github.com/Unity-Technologies/UnityCsReference/releases) 
 
 #### Release가 없는 경우
 -  Tags를 확인<b>(보통 버전을 표기)</b>하여 비교적 최신버전이 붙어있는 Tag를 클릭 후 Clone or Download를 한다.
-	- [유니티 C# 저장소 예시 링크]([https://github.com/Unity-Technologies/UnityCsReference/tags](https://github.com/Unity-Technologies/UnityCsReference/tags))
+	- [유니티 C# 저장소 예시 링크](https://github.com/Unity-Technologies/UnityCsReference/tags)
 
 #### Release도 없고 Tags도 없는 경우
-
+- 메인에 있는 Clone or Download를 한다.
+- - [유니티 C# 저장소 예시 링크](https://github.com/Unity-Technologies/UnityCsReference/tags)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMzI4MjI1OSwtMTUwNjQwNzA0MCwxND
+eyJoaXN0b3J5IjpbMTUzODg3MzEyNywtMTUwNjQwNzA0MCwxND
 I1NzIxODQyLDIwNjk3MjY5NTBdfQ==
 -->
