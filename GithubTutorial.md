@@ -14,8 +14,11 @@
 
 ### 저장소 소유주
 1. Repository(=저장소)를 올린다.
-
+2. 저장소를 깃허브 클라이언트(깃, 깃허브 데스크탑, 소스트리 등)를 통해 컴퓨터에 Clone(복사)한다.
+3. 무언가 작업을 한다.
+4. 푸시를 한다.
+5. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTk3MTI0NDUsLTE1MDY0MDcwNDAsMT
-QyNTcyMTg0MiwyMDY5NzI2OTUwXX0=
+eyJoaXN0b3J5IjpbNDMxNDk0OTQyLC0xNTA2NDA3MDQwLDE0Mj
+U3MjE4NDIsMjA2OTcyNjk1MF19
 -->
