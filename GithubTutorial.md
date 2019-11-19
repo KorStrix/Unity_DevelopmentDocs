@@ -23,11 +23,14 @@
 
 ### 순수 사용자
 #### Release가 있는 경우 
-1. Release에 있는 파일을 받는다. 
+1. Release에 있는 파일을 받는다.  끝
 
-#### Release가 없는 경
+#### Release가 없는 경우
+1. Tags를 확인(보통 버전을 표기)하여 비교적 최신버전이 붙어있는 Tag를 클릭 후 Clone or Download를 한다.
+
+#### Release도 없고 Tags도 없는 경우
 3. 깃허브에서 제공하는 우측의 Clone or Download 버튼을 눌러 다운을 받는다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTQwMzAxOTksLTE1MDY0MDcwNDAsMT
+eyJoaXN0b3J5IjpbLTEwNjQzMTM3MjMsLTE1MDY0MDcwNDAsMT
 QyNTcyMTg0MiwyMDY5NzI2OTUwXX0=
 -->
