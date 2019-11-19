@@ -2,7 +2,7 @@
 카톡 및 디스코드 관련 항목입니다.
 - 유니티 개발자 모임(질의 및 정보공유방) - [카톡 참여 링크](https://open.kakao.com/o/gOi17az)
 - 유니티 개발자 모임(잡담방) - [카톡 참여 링크](https://open.kakao.com/o/gXREoWIb)
-- 
+
 ## 공지사항
 원활한 채팅방 운영을 위해 현재 채팅방 규칙과 채팅방 권장사항으로 나누었습니다.
 
@@ -29,7 +29,7 @@
 
 ### 기타 문의사항은 [여기서..](https://github.com/KorStrix/Unity_DevelopmentDocs/issues)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzQ0MTg2NjIsMTQwOTY4MTMyMSw3MD
-MzMzExMTYsLTIzOTA2NTMxMCwtMTE1MjQ0ODYwMyw1Mjg2OTMx
-MDksNzMyNzgxMTMyXX0=
+eyJoaXN0b3J5IjpbMjU4MDE4MDYxLDE0MDk2ODEzMjEsNzAzMz
+MxMTE2LC0yMzkwNjUzMTAsLTExNTI0NDg2MDMsNTI4NjkzMTA5
+LDczMjc4MTEzMl19
 -->
