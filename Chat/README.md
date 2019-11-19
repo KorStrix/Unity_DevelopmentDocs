@@ -10,7 +10,7 @@
 - 5분이상 사담은 잡담방에서.
 
 ### 권장사항
-하단의 리스트는 가급적 지켜주시면 좋은 항목입니다.
+하단의 리스트는 지켜주시면 좋은 항목입니다.
 
 - 답변이 질문에 도움이 되셨다면 감사인사 부탁.
 - 질문을 해도 답변을 안할 경우 자신의 질문이 답변하기 어려운 것인지 체크해보기.
@@ -23,6 +23,6 @@
 
 ### 기타 문의사항은 [여기서..](https://github.com/KorStrix/Unity_DevelopmentDocs/issues)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk3MjQ3MzkyLC0xMTUyNDQ4NjAzLDUyOD
-Y5MzEwOSw3MzI3ODExMzJdfQ==
+eyJoaXN0b3J5IjpbLTE3NTA2MjcyODgsLTExNTI0NDg2MDMsNT
+I4NjkzMTA5LDczMjc4MTEzMl19
 -->
