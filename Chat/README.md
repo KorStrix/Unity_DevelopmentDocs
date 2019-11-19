@@ -4,7 +4,7 @@
 원활한 채팅방 운영을 위해 현재 채팅방 규칙과 채팅방 권장사항으로 나누었습니다.
 
 ### 채팅방 규칙
-하단의 리스트는 반드시 지켜야 하는 항목이며, 어길 시 추방입니다.
+하단의 리스트는 반드시 지켜야 하는 항목이며, 이를 어길 시 추방입니다.
 
 - 상호간에 존칭 사용, 비방 금지.
 - 5분이상 사담은 잡담방에서.
@@ -23,6 +23,6 @@
 
 ### 기타 문의사항은 [여기서..](https://github.com/KorStrix/Unity_DevelopmentDocs/issues)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTA2MjcyODgsLTExNTI0NDg2MDMsNT
+eyJoaXN0b3J5IjpbLTEwNzg1NzM1ODAsLTExNTI0NDg2MDMsNT
 I4NjkzMTA5LDczMjc4MTEzMl19
 -->
