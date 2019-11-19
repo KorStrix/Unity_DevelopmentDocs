@@ -1,4 +1,4 @@
-# 채팅
+# 채팅방
 
 ## 공지사항
 
@@ -9,5 +9,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg0MzQwMjMwLDczMjc4MTEzMl19
+eyJoaXN0b3J5IjpbNTI4NjkzMTA5LDczMjc4MTEzMl19
 -->
