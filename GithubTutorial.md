@@ -13,9 +13,9 @@
 ## 깃허브 작업 순서
 
 ### 저장소 소유주
-저장소를 올린다.
+1. Repository(=저장소)를 올린다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA4MDgwMTkyLC0xNTA2NDA3MDQwLDE0Mj
-U3MjE4NDIsMjA2OTcyNjk1MF19
+eyJoaXN0b3J5IjpbLTE0OTk3MTI0NDUsLTE1MDY0MDcwNDAsMT
+QyNTcyMTg0MiwyMDY5NzI2OTUwXX0=
 -->
