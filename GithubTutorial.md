@@ -12,10 +12,10 @@
 
 ## 깃허브 작업 순서
 
-### 저장소
+### 저장소 소유주
 저장소를 올린다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkwNjc3NjgsLTE1MDY0MDcwNDAsMTQyNT
-cyMTg0MiwyMDY5NzI2OTUwXX0=
+eyJoaXN0b3J5IjpbODA4MDgwMTkyLC0xNTA2NDA3MDQwLDE0Mj
+U3MjE4NDIsMjA2OTcyNjk1MF19
 -->
