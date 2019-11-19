@@ -13,11 +13,11 @@
 - 답변이 질문에 도움이 되셨다면 감사인사 부탁.
 - 질문을 해도 답변을 안할 경우 자신의 질문이 답변하기 어려운 것인지 체크해보기.
 
-### 질문 체크리스트
+### 답변이 쉬운 질문 체크리스트
  
 
 ### 기타 문의사항은 리퀘스트로
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDc5NjYxNyw1Mjg2OTMxMDksNzMyNz
-gxMTMyXX0=
+eyJoaXN0b3J5IjpbLTEwMDk5NjAzNTgsNTI4NjkzMTA5LDczMj
+c4MTEzMl19
 -->
