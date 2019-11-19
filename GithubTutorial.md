@@ -5,13 +5,16 @@
 
 깃허브는 버전 관리 시스템기반의 프로젝트를 <b>온라인</b>으로 보고 관리할 수 있는 <b>사이트</b>입니다.
 
-사용자는 공유된 소스코드를 쉽게 받을 수 있으며, 
+### 깃허브의 기능
+1. 다른 사용자가 공유한 프로젝트를 쉽게 받을 수 있다.
+2. Git 기반의 버전 관리 시스템 저장소를 무료로 받을 수 있다.
+3. 
 
 ## 깃허브 작업 순서
 
 저장소를 올린다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDY0MDcwNDAsMTQyNTcyMTg0MiwyMD
-Y5NzI2OTUwXX0=
+eyJoaXN0b3J5IjpbLTk1ODM5OTMxNiwtMTUwNjQwNzA0MCwxND
+I1NzIxODQyLDIwNjk3MjY5NTBdfQ==
 -->
