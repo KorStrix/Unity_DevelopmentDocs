@@ -15,10 +15,10 @@
 
 카톡 및 디스코드 관련 항목입니다.
 - 유니티 개발자 모임 - 카카오톡 [링크](https://open.kakao.com/o/gOi17az)
-- 채팅 항목 [링크](https://github.com/KorStrix/Unity_DevelopmentDocs/tree/master/Chat)
+- 채팅 관련 문서 [링크](https://github.com/KorStrix/Unity_DevelopmentDocs/tree/master/Chat)
 
 ## 개발 문서 관련
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NzE2OTA1Nyw5OTA0NDMyM119
+eyJoaXN0b3J5IjpbLTg4OTI1NjkzOSw5OTA0NDMyM119
 -->
