@@ -14,11 +14,16 @@
 
 ### 저장소 소유주
 1. Repository(=저장소)를 올린다.
-2. 저장소를 깃허브 클라이언트(깃, 깃허브 데스크탑, 소스트리 등)를 통해 컴퓨터에 Clone(복사)한다.
+2. 저장소를 깃허브 클라이언트(Git, Github Desktop, SourceTree 등)를 통해 컴퓨터에 Clone(복사)한다.
 3. 무언가 작업을 한다.
-4. 푸시를 한다.
-5. 
+4. 작업한 내용을 커밋(로컬 PC에 업로드)을 한다.
+5. 무언가 또 작업을 한다.
+6. 작업한 내용을 커밋한다.
+7. 서버에 올릴 필요가 있을 때 Push(서버에 업로드)를 한다.
+
+### 순수 사용자
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMxNDk0OTQyLC0xNTA2NDA3MDQwLDE0Mj
-U3MjE4NDIsMjA2OTcyNjk1MF19
+eyJoaXN0b3J5IjpbMzMxNDA5MDcsLTE1MDY0MDcwNDAsMTQyNT
+cyMTg0MiwyMDY5NzI2OTUwXX0=
 -->
