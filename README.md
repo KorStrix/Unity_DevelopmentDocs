@@ -21,7 +21,10 @@
 
 ## 개발 문서 관련
 - 글[링크](https://github.com/KorStrix/Unity_DevelopmentDocs/tree/master/Dvelopment)
+
+
+### 기타 문의사항은 [여기서..](https://github.com/KorStrix/Unity_DevelopmentDocs/issues)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NzM1NjUwNywxMjQ3OTc2Nzk3LDQ2MT
-g1ODM4Miw5OTA0NDMyM119
+eyJoaXN0b3J5IjpbMjEzMjY2NTU0NCwxMzU3MzU2NTA3LDEyND
+c5NzY3OTcsNDYxODU4MzgyLDk5MDQ0MzIzXX0=
 -->
