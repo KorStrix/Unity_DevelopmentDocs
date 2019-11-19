@@ -11,8 +11,8 @@
 ### 권장사항
 
 - 답변이 질문에 도움이 되셨다면 감사인사.
-- 질문을 해도 답변을 안할 경우 자신의 질문이
+- 질문을 해도 답변을 안할 경우 자신의 질문이 답변하기 어려운 것인지 체크할 것.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NTk4NDU1LDUyODY5MzEwOSw3MzI3OD
-ExMzJdfQ==
+eyJoaXN0b3J5IjpbMTE3NTc4NTk1OCw1Mjg2OTMxMDksNzMyNz
+gxMTMyXX0=
 -->
