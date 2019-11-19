@@ -8,7 +8,7 @@
 깃허브를 잘 모르시는 분을 위해 현재 튜토리얼 문서를 작성 예정입니다.
 
 ## 깃허브 사용법
-작성 예정
+- 글 [링크](https://github.com/KorStrix/Unity_DevelopmentDocs/blob/master/GithubTutorial.md)
 
 
 ## 채팅방
@@ -18,7 +18,6 @@
 - 채팅 관련 문서 [링크](https://github.com/KorStrix/Unity_DevelopmentDocs/tree/master/Chat)
 
 ## 개발 문서 관련
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4OTI1NjkzOSw5OTA0NDMyM119
+eyJoaXN0b3J5IjpbNDYxODU4MzgyLDk5MDQ0MzIzXX0=
 -->
