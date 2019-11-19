@@ -10,6 +10,9 @@
 2. Git 기반의 버전 관리 시스템 저장소를 무료로 받을 수 있다.
 3. 다른 사람들과 공동 작업할 수 있다.
 
+### 용어
+
+
 ## 깃허브 작업 순서
 
 ### 저장소(=프로젝트) 소유주
@@ -39,6 +42,6 @@
 
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkzNTU5OTY4LC0xNTA2NDA3MDQwLDE0Mj
-U3MjE4NDIsMjA2OTcyNjk1MF19
+eyJoaXN0b3J5IjpbLTE3MTEyMDkyMTQsNjkzNTU5OTY4LC0xNT
+A2NDA3MDQwLDE0MjU3MjE4NDIsMjA2OTcyNjk1MF19
 -->
