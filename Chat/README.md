@@ -12,7 +12,7 @@
 ### 권장사항
 하단의 리스트는 지켜주시면 좋은 항목입니다.
 
-- 답변이 질문에 도움이 되셨다면 감사인사 부탁.
+- 답변이 질문에 도움이 되셨다면 감사인사 부탁드립니다.
 - 질문을 해도 답변이 잘 안될경우 하단을 참고하시기 바랍니다.
 
 ### 질문을 했는데 답변을 못받을 때.
@@ -26,6 +26,7 @@
 
 ### 기타 문의사항은 [여기서..](https://github.com/KorStrix/Unity_DevelopmentDocs/issues)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAzMzMxMTE2LC0yMzkwNjUzMTAsLTExNT
-I0NDg2MDMsNTI4NjkzMTA5LDczMjc4MTEzMl19
+eyJoaXN0b3J5IjpbMTQwOTY4MTMyMSw3MDMzMzExMTYsLTIzOT
+A2NTMxMCwtMTE1MjQ0ODYwMyw1Mjg2OTMxMDksNzMyNzgxMTMy
+XX0=
 -->
