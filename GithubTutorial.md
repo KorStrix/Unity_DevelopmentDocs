@@ -23,14 +23,14 @@
 
 ### 순수 사용자
 #### Release가 있는 경우 
-- Release에 있는 파일을 받는다.
+- Release에 있는 파일을 다운 받는다.
 
 #### Release가 없는 경우
--  Tags를 확인(보통 버전을 표기)하여 비교적 최신버전이 붙어있는 Tag를 클릭 후 Clone or Download를 한다.
+-  Tags를 확인<b>(보통 버전을 표기)</b>하여 비교적 최신버전이 붙어있는 Tag를 클릭 후 Clone or Download를 한다.
 
 #### Release도 없고 Tags도 없는 경우
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjYzNDg1NzcsLTE1MDY0MDcwNDAsMT
-QyNTcyMTg0MiwyMDY5NzI2OTUwXX0=
+eyJoaXN0b3J5IjpbNzY5NDUyNDAwLC0xNTA2NDA3MDQwLDE0Mj
+U3MjE4NDIsMjA2OTcyNjk1MF19
 -->
