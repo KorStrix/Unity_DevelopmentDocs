@@ -14,10 +14,12 @@
 - 질문을 해도 답변을 안할 경우 자신의 질문이 답변하기 어려운 것인지 체크해보기.
 
 ### 답변이 쉬운 질문 체크리스트
- 
+정확한 질문이 정확한 답변을 낳습니다.
+
+ - 질문에 대한 배경을 충분히 설명했는지?
 
 ### 기타 문의사항은 [여기서..](https://github.com/KorStrix/Unity_DevelopmentDocs/issues)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTI0NDg2MDMsNTI4NjkzMTA5LDczMj
-c4MTEzMl19
+eyJoaXN0b3J5IjpbLTI1NDg3NjUsLTExNTI0NDg2MDMsNTI4Nj
+kzMTA5LDczMjc4MTEzMl19
 -->
