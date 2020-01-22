@@ -59,7 +59,7 @@ https://stackoverflow.com/questions/789095/how-can-i-delete-bad-visual-studio-te
 https://docs.microsoft.com/ko-kr/visualstudio/ide/how-to-create-item-templates?view=vs-2019
 
 
-## Unity Template을 변경하는 법
+## Unity Template을 변경하는 법 - 1. 파일 변경
 
 
 유니티의 템플릿 파일은 다음 경로에 저장되있습니다.
@@ -68,6 +68,14 @@ Mac: /Applications/Unity/Editor/Data/Resources/ScriptTemplates
 Mac (since 5.2.1f1): /Applications/Unity/Unity.app/Contents/Resources/ScriptTemplates
 
 여기서 해당하는 파일을 수정하면 끝입니다.
+이 방법의 경우 해당하는 컴퓨터만 적용됩니다.
+
+
+## Unity Template을 변경하는 법 - 2. 프로젝트 내 로컬로 저장
+
+프로젝트 내 스크립트 템플릿 폴더를 생성하여 네이밍을 같게 하면
+같은 팀원들도 쉽게 적용할 수있습니다.
+https://twitter.com/UnityBerserkers/status/1105555535070416896
 
 ### 참고 링크
 
