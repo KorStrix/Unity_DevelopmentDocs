@@ -4,7 +4,7 @@
  *	Initial Creation Date 	: #CREATIONDATE#
  *	Summary 		        : 
  *	테스트 지침 링크
- *	https://github.com/KorStrix/Unity_DevelopmentDocs/Test
+ *	https://github.com/KorStrix/Unity_DevelopmentDocs/tree/master/Test
  *
  *  Template 		        : Test For Unity Editor V1
    ============================================ */
@@ -27,7 +27,7 @@ namespace Tests
 			// Arrange (데이터 정렬)
 		
 		
-			// Action (기능 실행)
+			// Act (기능 실행)
 			
 			
 			// Assert (맞는지 체크)
