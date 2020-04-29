@@ -6,7 +6,7 @@
  *	테스트 지침 링크
  *	https://github.com/KorStrix/Unity_DevelopmentDocs/tree/master/Test
  *
- *  Template 		        : Test For Unity Editor V1
+ *  Template 		        : Test For Unity Editor V2
    ============================================ */
 #endregion Header
 
