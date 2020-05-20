@@ -12,9 +12,9 @@
 &#xD;
 /// &lt;summary&gt;&#xD;
 /// &#xD;
-/// Tester : &lt;see cref="Tests.$CLASS$_Presenter_Tester"/&gt;&#xD;
+/// Tester : &lt;see cref="Tests.$CLASS$_Tester"/&gt;&#xD;
 /// &lt;/summary&gt;&#xD;
-public class $CLASS$_Presenter&#xD;
+public class $CLASS$&#xD;
 {&#xD;
 	/* const &amp; readonly declaration             */&#xD;
 &#xD;
@@ -88,9 +88,9 @@ using NUnit.Framework;
 namespace Tests
 {
     /// &lt;summary&gt;&#xD;
-    /// Test Target : &lt;see cref="$CLASS$_Presenter"/&gt;&#xD;
+    /// Test Target : &lt;see cref="$CLASS$"/&gt;&#xD;
     /// &lt;/summary&gt;
-    public class $CLASS$_Presenter_Tester
+    public class $CLASS$_Tester
     {
         [Test]
         public void 이것을실행하면_이것이여야만합니다()
