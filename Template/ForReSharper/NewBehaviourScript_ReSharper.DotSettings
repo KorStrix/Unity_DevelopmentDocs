@@ -1,0 +1,67 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A406C23DB34DB34E8E7C91103B6CD965/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A406C23DB34DB34E8E7C91103B6CD965/Description/@EntryValue">NewBehaviourScript</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A406C23DB34DB34E8E7C91103B6CD965/Text/@EntryValue">#region Header&#xD;
+/*	============================================&#xD;
+ *	Author 			    	: $Author$&#xD;
+ *	Initial Creation Date 	: $Date$&#xD;
+ *	Summary 		        : &#xD;
+ *  Template 		        : New Behaviour For ReSharper&#xD;
+   ============================================ */&#xD;
+#endregion Header&#xD;
+&#xD;
+/// &lt;summary&gt;&#xD;
+/// &#xD;
+/// &lt;/summary&gt;&#xD;
+public class $CLASS$&#xD;
+{&#xD;
+	/* const &amp; readonly declaration             */&#xD;
+&#xD;
+	/* enum &amp; struct declaration                */&#xD;
+&#xD;
+	/* public - Field declaration               */&#xD;
+&#xD;
+&#xD;
+	/* protected &amp; private - Field declaration  */&#xD;
+&#xD;
+&#xD;
+	// ========================================================================== //&#xD;
+&#xD;
+	/* public - [Do~Something] Function 	        */&#xD;
+&#xD;
+&#xD;
+	// ========================================================================== //&#xD;
+&#xD;
+	/* protected - [Override &amp; Unity API]       */&#xD;
+    &#xD;
+&#xD;
+	/* protected - [abstract &amp; virtual]         */&#xD;
+&#xD;
+&#xD;
+	// ========================================================================== //&#xD;
+&#xD;
+	#region Private&#xD;
+    &#xD;
+	#endregion Private&#xD;
+}&#xD;
+</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A406C23DB34DB34E8E7C91103B6CD965/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A406C23DB34DB34E8E7C91103B6CD965/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A406C23DB34DB34E8E7C91103B6CD965/CustomProperties/=FileName/@EntryIndexedValue">NewBehaviourScript_Resharper</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A406C23DB34DB34E8E7C91103B6CD965/CustomProperties/=Extension/@EntryIndexedValue">cs</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A406C23DB34DB34E8E7C91103B6CD965/CustomProperties/=ValidateFileName/@EntryIndexedValue">True</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A406C23DB34DB34E8E7C91103B6CD965/Applicability/=File/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A406C23DB34DB34E8E7C91103B6CD965/Scope/=E8F0594528C33E45BBFEC6CFE851095D/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A406C23DB34DB34E8E7C91103B6CD965/Scope/=E8F0594528C33E45BBFEC6CFE851095D/Type/@EntryValue">InCSharpProjectFile</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A406C23DB34DB34E8E7C91103B6CD965/Field/=CLASS/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A406C23DB34DB34E8E7C91103B6CD965/Field/=CLASS/Expression/@EntryValue">getAlphaNumericFileNameWithoutExtension()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A406C23DB34DB34E8E7C91103B6CD965/Field/=CLASS/InitialRange/@EntryValue">-1</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A406C23DB34DB34E8E7C91103B6CD965/Field/=CLASS/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A406C23DB34DB34E8E7C91103B6CD965/Field/=Author/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A406C23DB34DB34E8E7C91103B6CD965/Field/=Author/Expression/@EntryValue">getFullUserName()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A406C23DB34DB34E8E7C91103B6CD965/Field/=Author/InitialRange/@EntryValue">-1</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A406C23DB34DB34E8E7C91103B6CD965/Field/=Author/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A406C23DB34DB34E8E7C91103B6CD965/Field/=Date/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A406C23DB34DB34E8E7C91103B6CD965/Field/=Date/Expression/@EntryValue">getCurrentDate("yyyy-MM-dd")</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A406C23DB34DB34E8E7C91103B6CD965/Field/=Date/InitialRange/@EntryValue">-1</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A406C23DB34DB34E8E7C91103B6CD965/Field/=Date/Order/@EntryValue">2</s:Int64></wpf:ResourceDictionary>

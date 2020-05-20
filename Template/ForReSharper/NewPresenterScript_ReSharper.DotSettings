@@ -1,0 +1,110 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1288048E2C5C434B9599BEC72F09466F/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1288048E2C5C434B9599BEC72F09466F/Description/@EntryValue">NewPresenterScript</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1288048E2C5C434B9599BEC72F09466F/Text/@EntryValue">#region Header&#xD;
+/*	============================================&#xD;
+ *	Author 			    	: $Author$&#xD;
+ *	Initial Creation Date 	: $Date$&#xD;
+ *	Summary 		        : &#xD;
+ *  Template 		        : New Presenter For ReSharper&#xD;
+   ============================================ */&#xD;
+#endregion Header&#xD;
+&#xD;
+/// &lt;summary&gt;&#xD;
+/// &#xD;
+/// Tester : &lt;see cref="Tests.$CLASS$_Presenter_Tester"/&gt;&#xD;
+/// &lt;/summary&gt;&#xD;
+public class $CLASS$_Presenter&#xD;
+{&#xD;
+	/* const &amp; readonly declaration             */&#xD;
+&#xD;
+	/* enum &amp; struct declaration                */&#xD;
+&#xD;
+	/* public - Field declaration               */&#xD;
+&#xD;
+&#xD;
+	/* protected &amp; private - Field declaration  */&#xD;
+&#xD;
+&#xD;
+	// ========================================================================== //&#xD;
+&#xD;
+	/* public - [Do~Something] Function 	        */&#xD;
+&#xD;
+&#xD;
+	// ========================================================================== //&#xD;
+&#xD;
+	/* protected - [Override &amp; Unity API]       */&#xD;
+    &#xD;
+&#xD;
+	/* protected - [abstract &amp; virtual]         */&#xD;
+&#xD;
+&#xD;
+	// ========================================================================== //&#xD;
+&#xD;
+	#region Private&#xD;
+    &#xD;
+	#endregion Private&#xD;
+}&#xD;
+</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1288048E2C5C434B9599BEC72F09466F/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1288048E2C5C434B9599BEC72F09466F/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1288048E2C5C434B9599BEC72F09466F/Categories/=Imported_00202020_002D05_002D20/@EntryIndexedValue">Imported 2020-05-20</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1288048E2C5C434B9599BEC72F09466F/CustomProperties/=FileName/@EntryIndexedValue">NewPresenterScript_Resharper</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1288048E2C5C434B9599BEC72F09466F/CustomProperties/=Extension/@EntryIndexedValue">cs</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1288048E2C5C434B9599BEC72F09466F/CustomProperties/=ValidateFileName/@EntryIndexedValue">True</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1288048E2C5C434B9599BEC72F09466F/Applicability/=File/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1288048E2C5C434B9599BEC72F09466F/Scope/=E8F0594528C33E45BBFEC6CFE851095D/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1288048E2C5C434B9599BEC72F09466F/Scope/=E8F0594528C33E45BBFEC6CFE851095D/Type/@EntryValue">InCSharpProjectFile</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1288048E2C5C434B9599BEC72F09466F/Field/=CLASS/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1288048E2C5C434B9599BEC72F09466F/Field/=CLASS/Expression/@EntryValue">getAlphaNumericFileNameWithoutExtension()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1288048E2C5C434B9599BEC72F09466F/Field/=CLASS/InitialRange/@EntryValue">-1</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1288048E2C5C434B9599BEC72F09466F/Field/=CLASS/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1288048E2C5C434B9599BEC72F09466F/Field/=Author/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1288048E2C5C434B9599BEC72F09466F/Field/=Author/Expression/@EntryValue">getFullUserName()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1288048E2C5C434B9599BEC72F09466F/Field/=Author/InitialRange/@EntryValue">-1</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1288048E2C5C434B9599BEC72F09466F/Field/=Author/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1288048E2C5C434B9599BEC72F09466F/Field/=Date/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1288048E2C5C434B9599BEC72F09466F/Field/=Date/Expression/@EntryValue">getCurrentDate("yyyy-MM-dd")</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1288048E2C5C434B9599BEC72F09466F/Field/=Date/InitialRange/@EntryValue">-1</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1288048E2C5C434B9599BEC72F09466F/Field/=Date/Order/@EntryValue">2</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1288048E2C5C434B9599BEC72F09466F/Section/=5F9304D71391FA4C893C4218FFE1310A/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1288048E2C5C434B9599BEC72F09466F/Section/=5F9304D71391FA4C893C4218FFE1310A/LocationSelectorName/@EntryValue">manual</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1288048E2C5C434B9599BEC72F09466F/Section/=5F9304D71391FA4C893C4218FFE1310A/LocationSelectorConfig/@EntryValue">&lt;RelativeConfig File="$NAME$_Tester.cs" /&gt;</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1288048E2C5C434B9599BEC72F09466F/Section/=5F9304D71391FA4C893C4218FFE1310A/Order/@EntryValue">0</s:Int64>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1288048E2C5C434B9599BEC72F09466F/Section/=5F9304D71391FA4C893C4218FFE1310A/SectionPlain/Text/@EntryValue">#region Header
+/*	============================================
+ *	Author 			    	: $Author$
+ *	Initial Creation Date 	: $Date$
+ *	Summary 		        : 
+ *	테스트 지침 링크
+ *	https://github.com/KorStrix/Unity_DevelopmentDocs/tree/master/Test
+ *
+ *  Template 		        : Presenter Test For ReSharper
+   ============================================ */
+#endregion Header
+
+using NUnit.Framework;
+
+namespace Tests
+{
+    /// &lt;summary&gt;&#xD;
+    /// Test Target : &lt;see cref="$CLASS$_Presenter"/&gt;&#xD;
+    /// &lt;/summary&gt;
+    public class $CLASS$_Presenter_Tester
+    {
+        [Test]
+        public void 이것을실행하면_이것이여야만합니다()
+        {
+			// Arrange (데이터 정렬)
+		
+		
+			// Act (기능 실행)
+			
+			
+			// Assert (맞는지 체크)
+			
+			
+        }
+    }
+}
+</s:String></wpf:ResourceDictionary>
