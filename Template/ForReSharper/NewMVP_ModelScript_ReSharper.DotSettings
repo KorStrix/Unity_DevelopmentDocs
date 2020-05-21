@@ -1,12 +1,12 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1288048E2C5C434B9599BEC72F09466F/@KeyIndexDefined">True</s:Boolean>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1288048E2C5C434B9599BEC72F09466F/Description/@EntryValue">NewPresenterScript</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1288048E2C5C434B9599BEC72F09466F/Description/@EntryValue">NewMVP_ModelScript</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1288048E2C5C434B9599BEC72F09466F/Text/@EntryValue">#region Header&#xD;
 /*	============================================&#xD;
  *	Author 			    	: $Author$&#xD;
  *	Initial Creation Date 	: $Date$&#xD;
  *	Summary 		        : &#xD;
- *  Template 		        : New Presenter For ReSharper&#xD;
+ *  Template 		        : New MVP - Model For ReSharper&#xD;
    ============================================ */&#xD;
 #endregion Header&#xD;
 &#xD;
@@ -79,7 +79,7 @@ public class $CLASS$&#xD;
  *	테스트 지침 링크
  *	https://github.com/KorStrix/Unity_DevelopmentDocs/tree/master/Test
  *
- *  Template 		        : Presenter Test For ReSharper
+ *  Template 		        : New MVP - Model - Model Tester For ReSharper
    ============================================ */
 #endregion Header
 
