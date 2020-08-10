@@ -55,7 +55,7 @@
 - 메인에 있는 Clone or Download를 한다.
 	- [유니티 C# 저장소 예시 링크 - 메인](https://github.com/Unity-Technologies/UnityCsReference)
 ---
-### 프로젝트를 수정하고 싶은 사용자(!=저장소 소유주)
+### 프로젝트를 수정하고 싶은 사용자
 
 - 
 <!--stackedit_data:
